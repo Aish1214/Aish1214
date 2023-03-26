@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aish1214
-- 👀 I’m interested in Cyber Security.
+- 👀 Digital Forencics.
 - 🌱 I’m currently pursuing B.tech in CSE.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me funaguskaraishwarya@gmail.com
